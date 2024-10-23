@@ -90,7 +90,6 @@ public class UserInterface {
                                 System.out.println("Invalid choice");
                         }
                         if(back){
-                            flag2 = false;
                             break;
                         }
                     }
